@@ -1,4 +1,4 @@
-<button id="chatWithArthsathi">Chat with Arthsathi</button>;
+<button id="chatWithArthsathi">Chat with TashAI</button>;
 
 document
   .getElementById("chatWithArthsathi")
